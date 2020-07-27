@@ -1,7 +1,7 @@
 # JDBM
 Java Data Base Manager
 
-<h1>Here is Java Data Base manager proyect made with Eclipse IDE.</h1>
+<h1>Here is Java Data Base manager proyect made with Eclipse IDE. Using neodatis SGBD or DBSM</h1>
 <h3>how to made your own dataBase Manager, following these steps</h3>
 <ul>
   <ol> First Install Eclipse or Dowload it from Eclipse.org</ol>
